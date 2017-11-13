@@ -1,0 +1,216 @@
+{
+  "basics": {
+    "name": "Daniel Visan",
+    "label": "*Emerging Tech Nerd",
+    "picture": "https://u8osmw-dm2305.files.1drv.com/y4piRkeKIA1sR41A-_xXeRvmVsDC45_OKDAosqRjPma9Hs3-EXRFMX_st-ldAUVSb6B9HQC1B9cqAdpPRupHfEZb30uR3DINqqX3n8atoSQmYGYsOBXkUVRbk0gDqlC0j8YLjFdYEHEkTW8RRY_Q-vq62NRpRx6t9l9WpKfZW4trJiLZRzhLcs6VkReEWvJoG3MqqaFnaV9bkIQeMfU8Wr1Nw/insta-crop.png",
+    "email": "dvsn23@outlook.com",
+    "phone": "+4-0746-503-281",
+    "website": "",
+    "summary": "I am a curious, fast learning and open-minded engineering grad student interested in the rapid development currently taking place in certain healthcare fields, such as eHealth, innovative medical devices, novel biomaterials and rapid prototyping technologies used in medicine.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Bucharest",
+      "countryCode": "RO",
+      "region": ""
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "danvisan",
+        "url": "https://www.linkedin.com/in/danvisan/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Softeh Plus",
+      "position": "Jr.Software Analyst",
+      "website": "https://softehplus.ro",
+      "startDate": "2016-04",
+      "endDate": "2017-06",
+      "summary": "Softeh is one of Romania's biggest healthcare digital solutions provider with over two decades experience in the field.",
+      "highlights": [
+        "Offered technical support (e-mail, phone, on-site) regarding our products and the hospital's network;",
+        "Manually tested new builds with the purpose of identifying bugs and providing suggestions regarding fixes and optimizations;",
+        "Provided configuration, implementation and training necessary for the utilization and administration of the EMR software, along with all its modules and third-party software;",
+        "Created and maintained client's SQL databases;",
+        "Developed responsive medical forms using HTML/CSS and JavaScript with input values (ex: patient details, lab results etc.) automatically imported through SQL queries;",
+        "Aggregated client's specifications and customization needs and presented them in a technical manner to the software development departments;",
+        "Establishing and debugging network interfaces between the EMR system and various automated laboratory equipment;",
+        "Solved the vast majority of the tasks rated as difficult or highly-difficult within deadlines."
+      ]
+    },
+    {
+      "company": "Jeff Ellis Management",
+      "position": "J-1 Exchange Student",
+      "website": "",
+      "startDate": "2017-06",
+      "endDate": "2017-09",
+      "summary": "Summer Work and Travel program in the United States",
+      "highlights": [
+        "My third and last Work and Travel experience;",
+        "Location: Ko Olina, Oahu Island, Hawai'i / U.S.A."
+      ]
+    },
+    {
+      "company": "Seawane Country & Golf Club",
+      "position": "J-1 Exchange Student",
+      "website": "",
+      "startDate": "2014-06",
+      "endDate": "2014-09",
+      "summary": "Summer Work and Travel program in the United States.",
+      "highlights": [
+        "Location: Hewlett, New York City / U.S.A.",
+        "Had the chance to live and work for a few months in one of the world's most impressive and diverse cities;",
+        "Helped me achieve new grounds in terms of cultural exchange."
+      ]
+    },
+    {
+      "company": "Xanterra Grand Canyon South Rim",
+      "position": "J-1 Exchange Student",
+      "website": "",
+      "startDate": "2013-06",
+      "endDate": "2013-09",
+      "summary": "Summer Work and Travel program in the United States.",
+      "highlights": [
+        "Location: Grand Canyon Village, AZ / U.S.A.",
+        "First Work and Travel experience;",
+        "Interracted with a highly diverse community formed out of both students and residents from more than a dozen countries;",
+        "Learned a lot about teamwork and other cultures."
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ASIM",
+      "position": "Volunteer",
+      "website": "",
+      "startDate": "2012-11",
+      "endDate": "2014-06",
+      "summary": "Medical Engineering Students Association",
+      "highlights": [
+        "Participated in various events regarding the medical engineering academic environment in Romania."
+      ]
+    },
+    {
+      "organization": "M.E.D. NGO",
+      "position": "Project Planning and IT Admin",
+      "website": "",
+      "startDate": "2014-10",
+      "endDate": "2015-06",
+      "summary": "The ASIM student association was succeeded by the MED NGO and labeled itself as a more mature and and industry rather than academic oriented student association.",
+      "highlights": [
+        "Developed and administered the website",
+        "Created artowrk and other media content for various events or programs."
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Politehnica University fo Bucharest",
+      "area": "Medical Engineering",
+      "studyType": "Engineer's Degree",
+      "startDate": "2012-10",
+      "endDate": "2016-07",
+      "gpa": "9.25",
+      "courses": [
+        "Biomaterials",
+        "Medical Devices",
+        "Healthcare Informatics",
+        "medical electronics"
+      ]
+    },
+    {
+      "institution": "Politehnica University of Bucharest",
+      "area": "Medical Electronics and Informatics",
+      "studyType": "Master's Degree",
+      "startDate": "2017-10",
+      "endDate": "2018-07",
+      "gpa": "",
+      "courses": [
+        "medical imaging",
+        "medical signal processing"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Front Web Development",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Wordpress",
+        "sass"
+      ]
+    },
+    {
+      "name": "Modern Web Servers",
+      "level": "Beginner",
+      "keywords": [
+        "Cloud Computing",
+        "digital ocean",
+        "ubuntu instances",
+        "nginx",
+        "no-sql databases"
+      ]
+    },
+    {
+      "name": "Design",
+      "level": "Intermediate",
+      "keywords": [
+        "Photoshop cc",
+        "gimp",
+        "autodesk remake",
+        "autodesk meshmixer",
+        "logo design"
+      ]
+    },
+    {
+      "name": "",
+      "level": "",
+      "keywords": []
+    }
+  ],
+  "languages": [
+    {
+      "language": "Romanian",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Machine Learning",
+      "keywords": [
+        "Tableau",
+        "Python",
+        "medical applications"
+      ]
+    },
+    {
+      "name": "Rapid Prototyping",
+      "keywords": [
+        "stereolithography fabrication",
+        "selective laser sintering",
+        "direct metal laser sintering"
+      ]
+    },
+    {
+      "name": "Other",
+      "keywords": [
+        "emerging technologies",
+        "big data in healthcare",
+        "e-health"
+      ]
+    }
+  ],
+  "references": []
+}
