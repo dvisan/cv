@@ -2,7 +2,7 @@
 
 A clean HTML resume created using [resume-cli](https://github.com/jsonresume/resume-cli/blob/master/README.md)
 
-1.Select your theme, fill out and download you .JSON resume using this [tool](http://registry.jsonresume.org)
+1. Select your theme, fill out and download you .JSON resume using this [tool](http://registry.jsonresume.org)
 
 2. `npm install -g resume-cli`
 
@@ -16,4 +16,4 @@ A clean HTML resume created using [resume-cli](https://github.com/jsonresume/res
 
 7. Now preview your resume at `yourname.github.io/yourrepository/` and update it whenever you feel like doing so
 
-My [example](https://dvisan.github.io/resume/). It needs some side tinkering, but it can print out or be exported as a PDF too. Resume-CLI's PDF feature is not properly working the design yet.
+My [example](https://dvisan.github.io/resume/). It needs some side tinkering, but it can print out or be exported as a PDF too. Resume-CLI's PDF feature is not properly exporting the theme's layout yet.
