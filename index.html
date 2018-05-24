@@ -347,6 +347,8 @@ h2.section-title {
 
 .position,
 .company,
+.cc-name,
+.cc-type,
 .organization,
 .institution,
 .date,
@@ -369,6 +371,8 @@ h2.section-title {
 .company::before,
 .institution::before,
 .organization::before,
+.cc-name::before,
+.cc-type::before,
 .awarder::before {
     content: "at "
 }
@@ -376,6 +380,8 @@ h2.section-title {
 .company,
 .institution,
 .organization,
+.cc-name,
+.cc-type,
 .awarder {
     color: #606d76;
     font-weight: 400;
@@ -670,6 +676,8 @@ ul.courses li:hover {
     .company::before,
     .institution::before,
     .organization::before,
+    .cc-name::before,
+    .cc-type::before,
     .awarder::before {
         content: "| ";
     }
@@ -713,6 +721,8 @@ ul.courses li:hover {
     .company::before,
     .institution::before,
     .organization::before,
+    .cc-name::before,
+    .cc-type::before,
     .awarder::before {
         content: "at ";
     }
@@ -868,7 +878,7 @@ ul.courses li:hover {
         <section id="skills">
             <div class="item">
                 <h3 class="name">
-                    Front Web Development
+                    Web Development
                 </h3>
 
                 <div class="level intermediate">
@@ -878,11 +888,9 @@ ul.courses li:hover {
                 <ul class="keywords">
                     <li>HTML</li>
                     <li>CSS</li>
-                    <li>Javascript</li>
                     <li>Wordpress</li>
-                    <li>Adobe Photoshop</li>
-                    <li>Logo Design</li>
-                </ul>
+                    <li>SQL</li>
+                    </ul>
             </div>
 
             <div class="item">
@@ -904,7 +912,7 @@ ul.courses li:hover {
 
              <div class="item">
                 <h3 class="name">
-                    Modern Web Servers
+                    Other
                 </h3>
 
                 <div class="level beginner">
@@ -912,11 +920,13 @@ ul.courses li:hover {
                     <div class="bar"></div>
                 </div>
                 <ul class="keywords">
+                    <li>Javascript</li>
+                    <li>NO-SQL</li>
+                    <li>Apex</li>
                     <li>Cloud Computing</li>
-                    <li>Digital ocean</li>
-                    <li>Ubuntu server instances</li>
+                    <li>Linux VM instances</li>
                     <li>nginx</li>
-                    <li>NO-SQL databases</li>
+                    
                 </ul>
             </div>
             <div class="item">
@@ -952,6 +962,7 @@ ul.courses li:hover {
                     </div>
                     <ul class="highlights">
                         <li><p>A training and induction period aimed at preparing candidates for the development of future software solutions and successful implementations of BearingPoint's tools, alongside an experienced project team</p></li>
+                        <li><p>The main target was to acquire two Salesforce Certifications: Admin and Platform Developer 1, which I did as of 17th of May 2018.</p></li>
                     </ul>
                     </div>
                 </section>
@@ -1149,7 +1160,119 @@ ul.courses li:hover {
       </section>
     </section>
 
-    <section class="section">
+<section class="section">
+      <header>
+        <h2 class='section-title'>Certifications & Courses</h2>
+      </header>
+      <section id="certifications">
+        <section class="certifications-item">
+
+            <input id="certifications-0" type="checkbox" class="toggle-item" checked="checked" />
+            <label for="certifications-item-0"></label>
+
+          <header>
+            <div class="header-left">
+              <div class="position">
+                Salesforce Certified Admin
+              </div>
+              <div class="organization">
+                Certification
+              </div>
+            </div>
+            <div class="date">
+              <span class="startDate">
+              March 2018
+              </span>
+              <!-- <span class="endDate">
+              - June 2014
+              </span> -->
+            </div>
+          </header>
+          <div class="item">
+            <div class="summary">
+              <p><p>Salesforce.com</p></p>
+            </div>
+            <ul class="highlights">
+              <li><p>Completed the two Trailhead trails involving the modules necessary to acquire the knowledege for the <i>Admin Certification</i>.</p></li>
+              <li><p>The certification can be verified <a href="http://certification.salesforce.com/certification-detail-print?conId=0034A00002rSTLoQAO" target=_blank>here</a></p></li>
+            </ul>
+          </div>
+        </section>
+
+       <section class="certifications-courses-item">
+
+            <input id="certifications-1" type="checkbox" class="toggle-item" checked="checked" />
+            <label for="certifications-courses-item-1"></label>
+          <header>
+            <div class="header-left">
+              <div class="position">
+                Salesforce Certified Platform Developer 1
+              </div>
+              <div class="organization">
+                Certification
+              </div>
+            </div>
+            <div class="date">
+              <span class="startDate">
+              May 2018
+              </span>
+              <!-- <span class="endDate">
+              - June 2014
+              </span> -->
+            </div>
+          </header>
+          <div class="item">
+            <div class="summary">
+              <p><p>Salesforce.com</p></p>
+            </div>
+            <ul class="highlights">
+              <li><p>Completed a Trailhead trail and a few other badges involving the modules necessary to acquire the knowledege for the <i>Admin Certification</i>.</p></li>
+              <li><p>The certification can be verified <a href="http://certification.salesforce.com/certification-detail-print?conId=0034A00002rSTLoQAO" target=_blank>here</a></p></li>
+            </ul>
+          </div>
+        </section>
+    </section>
+
+    <section id="courses">
+        
+        <section class="courses-item">
+
+            <input id="courses-0" type="checkbox" class="toggle-item" checked="checked" />
+            <label for="courses-item-0"></label>
+
+          <header>
+            <div class="header-left">
+              <div class="position">
+                Bertelsmann Udacity Data Science Scholarship
+              </div>
+              <div class="organization">
+                Course
+              </div>
+            </div>
+            <div class="date">
+              <span class="startDate">
+              May 2018
+              </span>
+            <span class="endDate">
+              - August 2018
+              </span>
+            </div>
+          </header>
+          <div class="item">
+            <div class="summary">
+              <p><p>Udacity</p></p>
+            </div>
+            <ul class="highlights">
+              <li><p>A scholarship program to provide job-relevant training, specifically for Data Science and analytics. The scholarship program consists of 15,000 seats for the Challenge Course "Intro to Descriptive Statistics", as well as 1,500 seats (the top 10% of all 15,000 scholarship recipients) for one full Udacity Nanodegree program. The top 10% scholarship recipients can choose between three Nanodegree programs: "Data Foundations", "Business Analyst" and "Data Analyst".</p></li>
+              <li><p>More information regarding the scholarship can be found <a href="https://www.udacity.com/bertelsmann-data-scholarships" target=_blank>here</a>.</p></li>
+            </ul>
+          </div>
+        </section>
+    </section>
+
+</section>
+
+<section class="section">
       <header>
         <h2 class='section-title'>Volunteer</h2>
       </header>
@@ -1211,7 +1334,7 @@ ul.courses li:hover {
           </header>
           <div class="item">
             <div class="summary">
-              <p><p>The ASIM student association was succeeded by the MED NGO and labeled itself as a more mature and and industry rather than academic oriented student association.</p></p>
+              <p><p>The ASIM student association was succeeded by the MED NGO and labeled itself as a more mature and industry rather than academic oriented student association.</p></p>
             </div>
             <ul class="highlights">
               <li><p>Developed and administered the website</p></li>
